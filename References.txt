@@ -1,0 +1,10 @@
+A lot of sklearn's documentation, too many to mention
+Udacity Forum
+http://stackoverflow.com/questions/18306416/adaboostclassifier-with-different-base-learners
+http://stackoverflow.com/questions/21420868/how-to-fix-the-false-positives-rate-of-a-linear-svm
+http://stackoverflow.com/questions/3873654/combinations-from-dictionary-with-list-values-using-python
+https://mpld3.github.io/examples/scatter_tooltip.html
+http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python
+http://stats.stackexchange.com/questions/72231/decision-trees-variable-feature-scaling-and-variable-feature-normalization
+http://stackoverflow.com/questions/18306416/adaboostclassifier-with-different-base-learners
+http://stackoverflow.com/questions/14117997/what-does-recall-mean-in-machine-learning
